@@ -1,0 +1,6 @@
+training:
+  content_widgets:
+    print_button:
+      label: Print Button
+      fields:
+        text.label: Button Text

@@ -1,0 +1,2 @@
+bundles:
+  - { name: Training\Bundle\ContentWidgetBundle\TrainingContentWidgetBundle, priority: 1000 }

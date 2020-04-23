@@ -1,0 +1,6 @@
+services:
+  _defaults:
+    autoconfigure: true
+    autowire: true
+
+  Training\Bundle\ContentWidgetBundle\ContentWidget\PrintButtonContentWidgetType: ~
